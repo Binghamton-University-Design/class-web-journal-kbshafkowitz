@@ -60,14 +60,14 @@ body {
 #portrait-info a {
   transition: color, background-color .35s ease-in-out;
   padding: 3px 5px;
-  color: #c9084c;
+  color: #000000;
   text-decoration: none;
-  background-color: #efad1b;
+  background-color: #FFD700;
 }
 
 #portrait-info a:hover {
-  background-color: #c9084c;
-  color: #efad1b;
+  background-color: #000000;
+  color: #FFD700;
 }
 
 #sketch-over {
