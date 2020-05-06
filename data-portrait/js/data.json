@@ -1,10 +1,10 @@
 {
-"key" :{
+"key":{
     "I think mental health should be normalized in conversations": {
       "x" : 0,
       "y" : 0,
-      "strongly agree" : "Q1-strongly-agree.png",
-      "neutral" : "Q1- nuetral.png",
+      "strongly agree" : "Q1-strongly-agree-.png",
+      "neutral" : "Q1-neutral.png",
       "agree" : "Q1-agree.png",
       "is_text" : false
     },
@@ -38,7 +38,7 @@
       "y" : 0,
       "disagree" : "Q5-DISAGREE.png",
       "neutral" : "Q5-NUETRAL.png",
-      "agree" : "Q5- AGREE.png",
+      "agree" : "Q5-AGREE.png",
       "is_text" : false
     },
     "Do you feel like you have an outlet?": {
@@ -51,16 +51,15 @@
     "Mental health is my #1 priority": {
       "x" : 0,
       "y" : 0,
-      "strongly disagree" : "Q8-STRONGLY-DISAGREE.png",
+      "strongly disagree" : "Q8-STRONGLY-DIS.png",
       "neutral" : "Q8-NUETRAL.png",
       "agree" : "Q8- AGREE.png",
       "disagree" : "Q8-DISAGREE.png",
       "is_text" : false
     }
   },
-  "data" : [
+  "data": [
     {
-      "Timestamp": "4/12/2020 16:33:18",
       "I think mental health should be normalized in conversations": "Agree",
       "Mental health is not talked about enough in schools": "Neutral",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
@@ -70,7 +69,6 @@
       "Mental health is my #1 priority": "Agree"
     },
     {
-      "Timestamp": "4/12/2020 16:36:23",
       "I think mental health should be normalized in conversations": "Strongly agree",
       "Mental health is not talked about enough in schools": "Agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
@@ -80,7 +78,6 @@
       "Mental health is my #1 priority": "Neutral"
     },
     {
-      "Timestamp": "4/12/2020 16:36:30",
       "I think mental health should be normalized in conversations": "Strongly agree",
       "Mental health is not talked about enough in schools": "Agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
@@ -90,7 +87,6 @@
       "Mental health is my #1 priority": "Neutral"
     },
     {
-      "Timestamp": "4/12/2020 16:40:33",
       "I think mental health should be normalized in conversations": "Agree",
       "Mental health is not talked about enough in schools": "Disagree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
@@ -100,7 +96,6 @@
       "Mental health is my #1 priority": "Neutral"
     },
     {
-      "Timestamp": "4/12/2020 16:49:11",
       "I think mental health should be normalized in conversations": "Strongly agree",
       "Mental health is not talked about enough in schools": "Neutral",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
@@ -110,7 +105,6 @@
       "Mental health is my #1 priority": "Disagree"
     },
     {
-      "Timestamp": "4/12/2020 16:56:46",
       "I think mental health should be normalized in conversations": "Strongly agree",
       "Mental health is not talked about enough in schools": "Strongly agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
@@ -120,7 +114,6 @@
       "Mental health is my #1 priority": "Disagree"
     },
     {
-      "Timestamp": "4/12/2020 17:00:30",
       "I think mental health should be normalized in conversations": "Neutral",
       "Mental health is not talked about enough in schools": "Strongly agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 4,
@@ -130,7 +123,6 @@
       "Mental health is my #1 priority": "Agree"
     },
     {
-      "Timestamp": "4/12/2020 17:17:11",
       "I think mental health should be normalized in conversations": "Strongly agree",
       "Mental health is not talked about enough in schools": "Strongly agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
@@ -140,7 +132,6 @@
       "Mental health is my #1 priority": "Strongly disagree"
     },
     {
-      "Timestamp": "4/12/2020 18:20:49",
       "I think mental health should be normalized in conversations": "Strongly agree",
       "Mental health is not talked about enough in schools": "Strongly agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
