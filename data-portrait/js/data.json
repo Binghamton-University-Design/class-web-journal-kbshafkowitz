@@ -1,83 +1,153 @@
 {
-"key" :
-  { 
-    "Do you  eat breakfast?": {
+"key" :{
+    "I think mental health should be normalized in conversations": {
       "x" : 0,
       "y" : 0,
-      "always" : "1_always.png",
-      "often" : "1_often.png",
-      "sometimes" : "1_sometimes.png",
-      "hardly ever" : "1_hardly-ever.png",
-      "never" : "1_never.png",
+      "strongly agree" : "Q1-strongly-agree.png",
+      "neutral" : "Q1- nuetral.png",
+      "agree" : "Q1-agree.png",
       "is_text" : false
     },
-    "What is your first beverage of the day?": {
-      "x" : 30,
-      "y" : 60,
-      "coffee" : "02_coffee.png",
-      "tea" : "02_tea.png",
-      "water" : "02_water.png",
-      "juice" : "02_juice.png",
+    "Mental health is not talked about enough in schools": {
+      "x" : 0,
+      "y" : 0,
+      "disagree" : "Q2-disagree.png",
+      "neutral" : "Q2-nuetral.png",
+      "agree" : "Q2-agree.png",
+      "strongly agree" : "Q2--strongly-agree.png",
       "is_text" : false
     },
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": {
-      "x" : 263,
-      "y" : 28,
-      "1" : "3-1.png",
-      "2" : "3-2.png",
-      "3" : "3-3.png",
-      "4" : "3-4.png",
-      "5" : "3-5.png",
+    "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": {
+      "x" : 0,
+      "y" : 0,
+      "2" : "Q3-2.png",
+      "3" : "Q3-3.png",
+      "4" : "Q3-4.png",
       "is_text" : false
     },
-    "I can't think unless I have breakfast.": {
-      "x" : 132,
-      "y" : 72,
-      "TRUE" : "4-true.png",
-      "FALSE" : "4-false.png",
+    "I feel like I know or learned the necessary measures to take when I start feeling unstable": {
+      "x" : 0,
+      "y" : 0,
+      "disagree" : "Q4-DISAGREE.png",
+      "agree" : "Q4-AGREE.png",
+      "neutral" : "Q4-NEUTRAL.png",
       "is_text" : false
     },
-    "An ideal breakfast would include:": {
-      "x" : 32,
-      "y" : 370,
-      "is_text" : true
+    "I consider myself to manage my mental health whether it be talking, writing, etc": {
+      "x" : 0,
+      "y" : 0,
+      "disagree" : "Q5-DISAGREE.png",
+      "neutral" : "Q5-NUETRAL.png",
+      "agree" : "Q5- AGREE.png",
+      "is_text" : false
+    },
+    "Do you feel like you have an outlet?": {
+      "x" : 0,
+      "y" : 0,
+      "Yes" : "Q6-YES.png",
+      "No" : "Q6-NO.png",
+      "is_text" : false
+    },  
+    "Mental health is my #1 priority": {
+      "x" : 0,
+      "y" : 0,
+      "strongly disagree" : "Q8-STRONGLY-DISAGREE.png",
+      "neutral" : "Q8-NUETRAL.png",
+      "agree" : "Q8- AGREE.png",
+      "disagree" : "Q8-DISAGREE.png",
+      "is_text" : false
     }
   },
-"data" : [
-  {
-    "Do you  eat breakfast?": "always",
-    "I can't think unless I have breakfast.": "TRUE",
-    "What is your first beverage of the day?": "water",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 4,
-    "An ideal breakfast would include:": "egg and cheese"
-  },
-  {
-    "Do you  eat breakfast?": "never",
-    "I can't think unless I have breakfast.": "FALSE",
-    "What is your first beverage of the day?": "coffee",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 3,
-    "An ideal breakfast would include:": "a bloody mary"
-  },
-  {
-    "Do you  eat breakfast?": "always",
-    "I can't think unless I have breakfast.": "TRUE",
-    "What is your first beverage of the day?": "water",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 3,
-    "An ideal breakfast would include:": "Pancakes and strawberry compote"
-  },
-  {
-    "Do you  eat breakfast?": "always",
-    "I can't think unless I have breakfast.": "TRUE",
-    "What is your first beverage of the day?": "coffee",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 5,
-    "An ideal breakfast would include:": "coffee, yogurt, fruit, granola"
-  },
-  {
-    "Do you  eat breakfast?": "hardly ever",
-    "I can't think unless I have breakfast.": "FALSE",
-    "What is your first beverage of the day?": "juice",
-    "On a scale of 1 to 5 how important would you say breakfast is to you?": 2,
-    "An ideal breakfast would include:": "Tequila and takis"
-  }
-]
+  "data" : [
+    {
+      "Timestamp": "4/12/2020 16:33:18",
+      "I think mental health should be normalized in conversations": "Agree",
+      "Mental health is not talked about enough in schools": "Neutral",
+      "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Agree",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "Neutral",
+      "Do you feel like you have an outlet?": "Yes",
+      "Mental health is my #1 priority": "Agree"
+    },
+    {
+      "Timestamp": "4/12/2020 16:36:23",
+      "I think mental health should be normalized in conversations": "Strongly agree",
+      "Mental health is not talked about enough in schools": "Agree",
+      "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Neutral",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "Disagree",
+      "Do you feel like you have an outlet?": "Yes",
+      "Mental health is my #1 priority": "Neutral"
+    },
+    {
+      "Timestamp": "4/12/2020 16:36:30",
+      "I think mental health should be normalized in conversations": "Strongly agree",
+      "Mental health is not talked about enough in schools": "Agree",
+      "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Neutral",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "Disagree",
+      "Do you feel like you have an outlet?": "Yes",
+      "Mental health is my #1 priority": "Neutral"
+    },
+    {
+      "Timestamp": "4/12/2020 16:40:33",
+      "I think mental health should be normalized in conversations": "Agree",
+      "Mental health is not talked about enough in schools": "Disagree",
+      "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Agree",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "Neutral",
+      "Do you feel like you have an outlet?": "Yes",
+      "Mental health is my #1 priority": "Neutral"
+    },
+    {
+      "Timestamp": "4/12/2020 16:49:11",
+      "I think mental health should be normalized in conversations": "Strongly agree",
+      "Mental health is not talked about enough in schools": "Neutral",
+      "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Agree",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "Agree",
+      "Do you feel like you have an outlet?": "Yes",
+      "Mental health is my #1 priority": "Disagree"
+    },
+    {
+      "Timestamp": "4/12/2020 16:56:46",
+      "I think mental health should be normalized in conversations": "Strongly agree",
+      "Mental health is not talked about enough in schools": "Strongly agree",
+      "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Neutral",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "Disagree",
+      "Do you feel like you have an outlet?": "No",
+      "Mental health is my #1 priority": "Disagree"
+    },
+    {
+      "Timestamp": "4/12/2020 17:00:30",
+      "I think mental health should be normalized in conversations": "Neutral",
+      "Mental health is not talked about enough in schools": "Strongly agree",
+      "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 4,
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Agree",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "Agree",
+      "Do you feel like you have an outlet?": "Yes",
+      "Mental health is my #1 priority": "Agree"
+    },
+    {
+      "Timestamp": "4/12/2020 17:17:11",
+      "I think mental health should be normalized in conversations": "Strongly agree",
+      "Mental health is not talked about enough in schools": "Strongly agree",
+      "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Disagree",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "Neutral",
+      "Do you feel like you have an outlet?": "No",
+      "Mental health is my #1 priority": "Strongly disagree"
+    },
+    {
+      "Timestamp": "4/12/2020 18:20:49",
+      "I think mental health should be normalized in conversations": "Strongly agree",
+      "Mental health is not talked about enough in schools": "Strongly agree",
+      "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Neutral",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "Agree",
+      "Do you feel like you have an outlet?": "Yes",
+      "Mental health is my #1 priority": "Agree"
+    }
+  ]
 }
