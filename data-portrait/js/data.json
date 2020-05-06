@@ -44,8 +44,8 @@
     "Do you feel like you have an outlet?": {
       "x" : 0,
       "y" : 0,
-      "Yes" : "Q6-YES.png",
-      "No" : "Q6-NO.png",
+      "yes" : "Q6-YES.png",
+      "no" : "Q6-NO.png",
       "is_text" : false
     },  
     "Mental health is my #1 priority": {
@@ -60,85 +60,85 @@
   },
   "data": [
     {
-      "I think mental health should be normalized in conversations": "Agree",
-      "Mental health is not talked about enough in schools": "Neutral",
+      "I think mental health should be normalized in conversations": "agree",
+      "Mental health is not talked about enough in schools": "neutral",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
-      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Agree",
-      "I consider myself to manage my mental health whether it be talking, writing, etc": "Neutral",
-      "Do you feel like you have an outlet?": "Yes",
-      "Mental health is my #1 priority": "Agree"
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "agree",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "neutral",
+      "Do you feel like you have an outlet?": "yes",
+      "Mental health is my #1 priority": "agree"
     },
     {
-      "I think mental health should be normalized in conversations": "Strongly agree",
-      "Mental health is not talked about enough in schools": "Agree",
+      "I think mental health should be normalized in conversations": "strongly agree",
+      "Mental health is not talked about enough in schools": "agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
-      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Neutral",
-      "I consider myself to manage my mental health whether it be talking, writing, etc": "Disagree",
-      "Do you feel like you have an outlet?": "Yes",
-      "Mental health is my #1 priority": "Neutral"
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "neutral",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "disagree",
+      "Do you feel like you have an outlet?": "yes",
+      "Mental health is my #1 priority": "neutral"
     },
     {
-      "I think mental health should be normalized in conversations": "Strongly agree",
-      "Mental health is not talked about enough in schools": "Agree",
+      "I think mental health should be normalized in conversations": "strongly agree",
+      "Mental health is not talked about enough in schools": "agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
-      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Neutral",
-      "I consider myself to manage my mental health whether it be talking, writing, etc": "Disagree",
-      "Do you feel like you have an outlet?": "Yes",
-      "Mental health is my #1 priority": "Neutral"
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "neutral",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "disagree",
+      "Do you feel like you have an outlet?": "yes",
+      "Mental health is my #1 priority": "neutral"
     },
     {
-      "I think mental health should be normalized in conversations": "Agree",
-      "Mental health is not talked about enough in schools": "Disagree",
+      "I think mental health should be normalized in conversations": "agree",
+      "Mental health is not talked about enough in schools": "disagree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
-      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Agree",
-      "I consider myself to manage my mental health whether it be talking, writing, etc": "Neutral",
-      "Do you feel like you have an outlet?": "Yes",
-      "Mental health is my #1 priority": "Neutral"
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "agree",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "neutral",
+      "Do you feel like you have an outlet?": "yes",
+      "Mental health is my #1 priority": "neutral"
     },
     {
-      "I think mental health should be normalized in conversations": "Strongly agree",
-      "Mental health is not talked about enough in schools": "Neutral",
+      "I think mental health should be normalized in conversations": "strongly agree",
+      "Mental health is not talked about enough in schools": "neutral",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
-      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Agree",
-      "I consider myself to manage my mental health whether it be talking, writing, etc": "Agree",
-      "Do you feel like you have an outlet?": "Yes",
-      "Mental health is my #1 priority": "Disagree"
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "agree",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "agree",
+      "Do you feel like you have an outlet?": "yes",
+      "Mental health is my #1 priority": "disagree"
     },
     {
-      "I think mental health should be normalized in conversations": "Strongly agree",
-      "Mental health is not talked about enough in schools": "Strongly agree",
+      "I think mental health should be normalized in conversations": "strongly agree",
+      "Mental health is not talked about enough in schools": "strongly agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
-      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Neutral",
-      "I consider myself to manage my mental health whether it be talking, writing, etc": "Disagree",
-      "Do you feel like you have an outlet?": "No",
-      "Mental health is my #1 priority": "Disagree"
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "neutral",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "disagree",
+      "Do you feel like you have an outlet?": "no",
+      "Mental health is my #1 priority": "disagree"
     },
     {
-      "I think mental health should be normalized in conversations": "Neutral",
-      "Mental health is not talked about enough in schools": "Strongly agree",
+      "I think mental health should be normalized in conversations": "neutral",
+      "Mental health is not talked about enough in schools": "strongly agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 4,
-      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Agree",
-      "I consider myself to manage my mental health whether it be talking, writing, etc": "Agree",
-      "Do you feel like you have an outlet?": "Yes",
-      "Mental health is my #1 priority": "Agree"
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "agree",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "agree",
+      "Do you feel like you have an outlet?": "yes",
+      "Mental health is my #1 priority": "agree"
     },
     {
-      "I think mental health should be normalized in conversations": "Strongly agree",
-      "Mental health is not talked about enough in schools": "Strongly agree",
+      "I think mental health should be normalized in conversations": "strongly agree",
+      "Mental health is not talked about enough in schools": "strongly agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
-      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Disagree",
-      "I consider myself to manage my mental health whether it be talking, writing, etc": "Neutral",
-      "Do you feel like you have an outlet?": "No",
-      "Mental health is my #1 priority": "Strongly disagree"
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "disagree",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "neutral",
+      "Do you feel like you have an outlet?": "no",
+      "Mental health is my #1 priority": "strongly disagree"
     },
     {
-      "I think mental health should be normalized in conversations": "Strongly agree",
-      "Mental health is not talked about enough in schools": "Strongly agree",
+      "I think mental health should be normalized in conversations": "strongly agree",
+      "Mental health is not talked about enough in schools": "strongly agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 3,
-      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "Neutral",
-      "I consider myself to manage my mental health whether it be talking, writing, etc": "Agree",
-      "Do you feel like you have an outlet?": "Yes",
-      "Mental health is my #1 priority": "Agree"
+      "I feel like I know or learned the necessary measures to take when I start feeling unstable": "neutral",
+      "I consider myself to manage my mental health whether it be talking, writing, etc": "agree",
+      "Do you feel like you have an outlet?": "yes",
+      "Mental health is my #1 priority": "agree"
     }
   ]
 }
