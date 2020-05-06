@@ -14,7 +14,7 @@
       "disagree" : "Q2-disagree.png",
       "neutral" : "Q2-nuetral.png",
       "agree" : "Q2-agree.png",
-      "strongly agree" : "Q2--strongly-agree.png",
+      "strongly agree" : "Q2-strongly-agree.png",
       "is_text" : false
     },
     "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": {
@@ -53,7 +53,7 @@
       "y" : 0,
       "strongly disagree" : "Q8-STRONGLY-DIS.png",
       "neutral" : "Q8-NUETRAL.png",
-      "agree" : "Q8- AGREE.png",
+      "agree" : "Q8-AGREE.png",
       "disagree" : "Q8-DISAGREE.png",
       "is_text" : false
     }
@@ -68,7 +68,7 @@
       "Do you feel like you have an outlet?": "yes",
       "Mental health is my #1 priority": "agree"
     },
-    {
+        {
       "I think mental health should be normalized in conversations": "strongly agree",
       "Mental health is not talked about enough in schools": "agree",
       "On a scale of 1-5 I feel like my mental health is typically stable (1 being unstable, 5 being stable)": 2,
